@@ -1,5 +1,27 @@
-## Hi there 👋
 
+# Hi 👋, I'm Siddhi
+
+🎓 BTech CSE Student  
+💻 Learning Web Development  
+🌱 Currently learning: HTML, CSS, JavaScript  
+🚀 Goal: Become Full Stack Developer  
+
+---
+
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript (learning)
+- Python
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/siddhiverma
+
+---
+
+✨ Always learning new things and building projects!
 <!--
 **Siddhi-verma-web/Siddhi-verma-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
