@@ -38,26 +38,20 @@
 
 ### 📌 Featured Projects
 
-**[StudySync](#)** — A student productivity/study management web app  
-`HTML` `CSS` `JavaScript`
-https://siddhi-verma-web.github.io/StudySync/
+**[StudySync](https://github.com/Siddhi-verma-web/StudySync)** — A student productivity/study management web app<br>
+`HTML` `CSS` `JavaScript` — [Live Demo](https://siddhi-verma-web.github.io/StudySync/)
 
+**[AI Nexus](https://github.com/Siddhi-verma-web/AI-Nexus-Landing-Page)** — AI-based project exploring smart automation<br>
+`JavaScript` `AI/ML concepts` — [Live Demo](https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/)
 
-**[AI Nexus](#)** — AI-based project exploring smart automation  
-`JavaScript` `AI/ML concepts`
-https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/
+**[Password Strength Checker](https://github.com/Siddhi-verma-web/Password-Strength-Checker)** — Real-time password strength validator<br>
+`HTML` `CSS` `JavaScript` — [Live Demo](https://siddhi-verma-web.github.io/Password-Strength-Checker/)
 
-**[Password Strength Checker](#)** — Real-time password strength validator  
-`HTML` `CSS` `JavaScript`
-https://siddhi-verma-web.github.io/Password-Strength-Checker/
+**[Royal Tadka](https://github.com/Siddhi-verma-web/Royal-Tadka-Website)** — Fine Indian dining website<br>
+`HTML` `CSS` `JavaScript` — [Live Demo](https://siddhi-verma-web.github.io/Royal-Tadka-Website/)
 
-**[Siddhi-Verma-Portfolio](#)** —  Welcome to my personal portfolio repository
-`HTML` `CSS` `JavaScript`
- https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/
- 
- **[Royal Tadka](#)** —  Fine Indian Dining Website
-`HTML` `CSS` `JavaScript`
- https://siddhi-verma-web.github.io/Royal-Tadka-Website/
+**[Portfolio](https://github.com/Siddhi-verma-web/Siddhi_Verma_Portfolio)** — My personal portfolio website<br>
+`HTML` `CSS` `JavaScript` — [Live Demo](https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/)
 
 
 
