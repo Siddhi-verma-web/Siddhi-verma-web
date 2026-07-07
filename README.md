@@ -60,12 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhi-verma-web&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?user=Siddhi-verma-web&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-verma-web&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-verma-web&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Siddhi-verma-web&layout=compact&theme=radical" />
 </p>
 
 ---
