@@ -51,7 +51,7 @@ https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/
 `HTML` `CSS` `JavaScript`
 https://siddhi-verma-web.github.io/Password-Strength-Checker/
 
-**[Siddhi-Verma-Portfolio](#)** —  Welcome to my personal portfolio repository! 🚀
+**[Siddhi-Verma-Portfolio](#)** —  Welcome to my personal portfolio repository
 `HTML` `CSS` `JavaScript`
  https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/
  
