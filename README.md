@@ -1,38 +1,77 @@
+<h1 align="center">Hi 👋, I'm Siddhi Verma</h1>
+<h3 align="center">Frontend Developer | CSE Student | Exploring Computer Vision & AI</h3>
 
-# Hi 👋, I'm Siddhi
-
-🎓 BTech CSE Student  
-💻 Learning Web Development  
-🌱 Currently learning: HTML, CSS, JavaScript  
-🚀 Goal: Become Full Stack Developer  
-
----
-
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript (learning)
-- Python
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhi-verma-463632361/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/siddhiverma
+### 🚀 About Me
+
+- 🎓 Computer Science Engineering student
+- 💻 Building projects in **HTML, CSS, JavaScript & Python**
+- 🤖 Currently exploring **OpenCV / Computer Vision**
+- 🌱 Learning full-stack development, one project at a time
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/siddhi-verma-463632361/)
 
 ---
 
-✨ Always learning new things and building projects!
-<!--
-**Siddhi-verma-web/Siddhi-verma-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Projects
+
+**[StudySync](#)** — A student productivity/study management web app  
+`HTML` `CSS` `JavaScript`
+https://siddhi-verma-web.github.io/StudySync/
+
+
+**[AI Nexus](#)** — AI-based project exploring smart automation  
+`JavaScript` `AI/ML concepts`
+https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/
+
+**[Password Strength Checker](#)** — Real-time password strength validator  
+`HTML` `CSS` `JavaScript`
+https://siddhi-verma-web.github.io/Password-Strength-Checker/
+**[Siddhi-Verma-Portfolio](#)** —  Welcome to my personal portfolio repository! 🚀
+`HTML` `CSS` `JavaScript`
+ https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/
+ **[Royal Tadka](#)** —  Fine Indian Dining Website
+`HTML` `CSS` `JavaScript`
+ https://siddhi-verma-web.github.io/Royal-Tadka-Website/
+
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhi-verma-web&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhi-verma-web&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-verma-web&layout=compact&theme=radical" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repos and connect with me.</i></p>
