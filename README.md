@@ -60,13 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=Siddhi-verma-web&show_icons=true&theme=radical" />
+
   <img height="165" src="https://streak-stats.demolab.com/?user=Siddhi-verma-web&theme=radical" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Siddhi-verma-web&layout=compact&theme=radical" />
-</p>
+ 
 
 ---
 
