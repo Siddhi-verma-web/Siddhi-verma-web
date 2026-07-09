@@ -57,14 +57,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-
-  <img height="165" src="https://streak-stats.demolab.com/?user=Siddhi-verma-web&theme=radical" />
-</p>
-
-<p align="center">
  
 
 ---
