@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=260&section=header&text=Siddhi%20Verma&fontSize=72&fontColor=7dd3fc&animation=twinkling&fontAlignY=36&desc=Frontend%20Developer%20%7C%20CSE%20Student%20%7C%20Exploring%20CV%20%26%20AI&descAlignY=62&descSize=17&descColor=bae6fd" />
+<img width="100%" src="./banner.svg" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+CSE+Student;Exploring+Computer+Vision+%26+AI;Building+StudySync+%7C+AI+Nexus+%7C+smart-email-env;Open+to+Full-time+%2F+Internship+Roles" alt="Typing SVG" />
@@ -236,7 +236,7 @@ Modern, responsive AI-themed landing page — dark/light mode, pricing plans, te
   </picture>
 </div>
 
-
+<sub>⚠️ Ye snake tabhi dikhega jab tumhare `Siddhi-verma-web/Siddhi-verma-web` repo mein neeche di gayi GitHub Action workflow file add ho aur ek baar chal jaaye (setup steps neeche diye hain).</sub>
 
 ---
 
