@@ -250,6 +250,10 @@ Modern, responsive AI-themed landing page — dark/light mode, pricing plans, te
   <a href="mailto:vbhoomi324@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
   </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1Ivn1zVk9p73AUWaWVn-TogQhtkZYffM4/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-0a2a3a?style=for-the-badge&logo=googledrive&logoColor=7dd3fc" />
+  </a>
 </div>
 
 <br/>
