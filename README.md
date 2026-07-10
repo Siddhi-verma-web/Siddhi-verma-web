@@ -1,69 +1,61 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=240&section=header&text=Siddhi%20Verma&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20CSE%20Student%20%7C%20Exploring%20CV%20%26%20AI&descAlignY=58&descSize=17&descColor=bae6fd" />
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+CSE+Student;Exploring+Computer+Vision+%26+AI;Building+StudySync+%7C+AI+Nexus+%7C+smart-email-env;Open+to+Full-time+%2F+Internship+Roles" alt="Typing SVG" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Siddhi%20Verma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20CSE%20Student%20%7C%20Exploring%20CV%20%26%20AI&descAlignY=55&descSize=16" width="100%"/>
-
-<a href="https://github.com/Siddhi-verma-web">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+%7C+CSE+Student;Exploring+Computer+Vision+%26+AI;Building+StudySync+%F0%9F%93%9A;Building+AI+Nexus+%F0%9F%A4%96;Building+smart-email-env+%F0%9F%93%A7;Open+to+Work+Opportunities!&font=Fira%20Code&center=true&width=650&height=45&color=7dd3fc&vCenter=true&size=24&pause=1200" alt="Typing SVG" />
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=probot&logoColor=black" alt="Open to Work"/>
-
-<img src="https://komarev.com/ghpvc/?username=Siddhi-verma-web&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Siddhi-verma-web?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Stack%20%2F%20Frontend%20Roles-7dd3fc?style=for-the-badge&labelColor=0a2a3a&color=0d3347" alt="Open to Work" />
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+<div align="center">
+  <a href="https://github.com/Siddhi-verma-web">
+    <img src="https://komarev.com/ghpvc/?username=Siddhi-verma-web&label=Profile+Views&color=7dd3fc&style=flat-square&labelColor=0a2a3a" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Siddhi-verma-web?tab=followers">
+    <img src="https://img.shields.io/github/followers/Siddhi-verma-web?label=Followers&style=flat-square&color=7dd3fc&labelColor=0a2a3a" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/siddhiverma">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=flat-square&logo=linkedin&logoColor=7dd3fc&labelColor=0a2a3a" />
+  </a>
+  &nbsp;
+  <a href="mailto:vbhoomi324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vbhoomi324%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=7dd3fc&labelColor=0a2a3a" />
+  </a>
+</div>
 
-```ts
-const siddhiVerma = {
-  title: "Frontend Developer | CSE Student | Exploring Computer Vision & AI",
-  stack: ["HTML", "CSS", "JavaScript", "Python", "OpenCV"],
-  launchedProjects: [
-    "StudySync",
-    "AI Nexus",
-    "Smart Password Strength Checker",
-    "Royal Tadka",
-    "Portfolio",
-    "smart-email-env",
-  ],
-  certifications: [],
-  status: "Learning full-stack development, one project at a time 🌱",
-  openTo: ["Full Stack Development", "Internships", "Collaborations"],
-};
-```
+---
 
-<br/>
+## 🧑‍💻 Who I Am
+
+<img align="right" alt="Coding" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🎓 Final-year CSE student, building real projects alongside coursework
+- 💻 Comfortable with **HTML, CSS, JavaScript & Python**
+- 🤖 Currently exploring **Computer Vision** with OpenCV
+- 🌱 Learning full-stack development, one project at a time
+- 🚀 Shipped 6 projects — from productivity dashboards to AI-themed landing pages
+- 📫 Open to **Full Stack / Frontend Developer roles**, internships & collaborations
+
+<br clear="right"/>
+
+---
 
 ## 🚀 Featured Projects
 
-### 📚 StudySync
+### 📚 StudySync — *Student Productivity Dashboard*
 
-A student productivity/study management web app.
+<div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
 
-| Layer | Technology |
-|---|---|
-| Structure | HTML |
-| Styling | CSS |
-| Interactivity | JavaScript |
-
-🌐 [Live Demo](https://siddhi-verma-web.github.io/StudySync/) &nbsp;•&nbsp; 🔗 [Code](https://github.com/Siddhi-verma-web/StudySync)
-
-<br/>
-
-### 🤖 AI Nexus
-
-AI-based project exploring smart automation — a modern, responsive AI-themed landing page with dark/light mode, pricing plans, testimonials, FAQ accordion, and contact form.
-
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square)
+</div>
 
 | Layer | Technology |
 |---|---|
@@ -71,35 +63,41 @@ AI-based project exploring smart automation — a modern, responsive AI-themed l
 | Styling | CSS |
 | Interactivity | JavaScript |
 
-🌐 [Live Demo](https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/) &nbsp;•&nbsp; 🔗 [Code](https://github.com/Siddhi-verma-web/AI-Nexus-Landing-Page)
+🌐 **Live →** [siddhi-verma-web.github.io/StudySync](https://siddhi-verma-web.github.io/StudySync/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/StudySync](https://github.com/Siddhi-verma-web/StudySync)
 
-<br/>
+---
+
+### 🤖 AI Nexus — *AI-Themed Landing Page*
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Structure | HTML |
+| Styling | CSS |
+| Interactivity | JavaScript |
+
+Modern, responsive AI-themed landing page — dark/light mode, pricing plans, testimonials, FAQ accordion, contact form.
+
+🌐 **Live →** [siddhi-verma-web.github.io/AI-Nexus-Landing-Page](https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/AI-Nexus-Landing-Page](https://github.com/Siddhi-verma-web/AI-Nexus-Landing-Page)
+
+---
 
 ### 🔐 Smart Password Strength Checker
 
-Real-time password strength validator.
+<div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
 
-| Layer | Technology |
-|---|---|
-| Structure | HTML |
-| Styling | CSS |
-| Interactivity | JavaScript |
-
-🌐 [Live Demo](https://siddhi-verma-web.github.io/Password-Strength-Checker/) &nbsp;•&nbsp; 🔗 [Code](https://github.com/Siddhi-verma-web/Password-Strength-Checker)
-
-<br/>
-
-### 🍽️ Royal Tadka | Fine Indian Dining
-
-A fine Indian dining restaurant website.
-
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square)
+</div>
 
 | Layer | Technology |
 |---|---|
@@ -107,17 +105,19 @@ A fine Indian dining restaurant website.
 | Styling | CSS |
 | Interactivity | JavaScript |
 
-🌐 [Live Demo](https://siddhi-verma-web.github.io/Royal-Tadka-Website/) &nbsp;•&nbsp; 🔗 [Code](https://github.com/Siddhi-verma-web/Royal-Tadka-Website)
+🌐 **Live →** [siddhi-verma-web.github.io/Password-Strength-Checker](https://siddhi-verma-web.github.io/Password-Strength-Checker/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/Password-Strength-Checker](https://github.com/Siddhi-verma-web/Password-Strength-Checker)
 
-<br/>
+---
 
-### 🌐 Portfolio
+### 🍽️ Royal Tadka — *Fine Indian Dining Website*
 
-My personal portfolio website.
+<div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+
+</div>
 
 | Layer | Technology |
 |---|---|
@@ -125,17 +125,39 @@ My personal portfolio website.
 | Styling | CSS |
 | Interactivity | JavaScript |
 
-🌐 [Live Demo](https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/) &nbsp;•&nbsp; 🔗 [Code](https://github.com/Siddhi-verma-web/Siddhi_Verma_Portfolio)
+🌐 **Live →** [siddhi-verma-web.github.io/Royal-Tadka-Website](https://siddhi-verma-web.github.io/Royal-Tadka-Website/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/Royal-Tadka-Website](https://github.com/Siddhi-verma-web/Royal-Tadka-Website)
 
-<br/>
+---
 
-### 📧 smart-email-env
+### 🌐 Portfolio — *Personal Portfolio Website*
 
-Smart Email Triage Environment using OpenEnv (spam vs important classification).
+<div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Structure | HTML |
+| Styling | CSS |
+| Interactivity | JavaScript |
+
+🌐 **Live →** [siddhi-verma-web.github.io/Siddhi_Verma_Portfolio](https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/Siddhi_Verma_Portfolio](https://github.com/Siddhi-verma-web/Siddhi_Verma_Portfolio)
+
+---
+
+### 📧 smart-email-env — *Smart Email Triage Environment*
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+
+</div>
 
 | Layer | Technology |
 |---|---|
@@ -143,65 +165,57 @@ Smart Email Triage Environment using OpenEnv (spam vs important classification).
 | Environment | OpenEnv |
 | Task | Spam vs Important Classification |
 
-🔗 [Code](https://github.com/Siddhi-verma-web/smart-email-env)
+📂 **Code →** [github.com/Siddhi-verma-web/smart-email-env](https://github.com/Siddhi-verma-web/smart-email-env)
 
-<br/>
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Tools**
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,opencv,git,github" alt="tech stack"/>
+### Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+</p>
 
-<br/>
+### Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=7dd3fc&style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddhi-verma-web)
-![Followers](https://img.shields.io/github/followers/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Followers)
-![Stars](https://img.shields.io/github/stars/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Total%20Stars)
-
-<br/><br/>
-
-<!-- If the cards below don't render, it's a temporary outage on the free github-readme-stats.vercel.app demo service (a known, widespread issue) — just refresh after a while. -->
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhi-verma-web&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-verma-web&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Siddhi-verma-web&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="Streak Stats" width="70%"/>
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=7dd3fc&style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddhi-verma-web&labelColor=0a2a3a)
+![Followers](https://img.shields.io/github/followers/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Followers&labelColor=0a2a3a)
+![Stars](https://img.shields.io/github/stars/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Total%20Stars&labelColor=0a2a3a)
 
 </div>
 
-<br/>
+---
 
-## 🏆 Trophies
+## 🤝 Connect
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Siddhi-verma-web&theme=nord&no-frame=true&no-bg=true&margin-w=10" alt="trophies"/>
+  <a href="https://github.com/Siddhi-verma-web">
+    <img src="https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/siddhiverma">
+    <img src="https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" />
+  </a>
+  &nbsp;
+  <a href="mailto:vbhoomi324@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" />
+  </a>
 </div>
 
 <br/>
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-verma-web&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="activity graph" width="100%"/>
-
-<br/>
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/siddhiverma">
-  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-</a>
-<a href="mailto:vbhoomi324@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a3a,60:0d3347,100:0d1117&height=120&section=footer&animation=fadeIn" />
