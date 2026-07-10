@@ -43,7 +43,9 @@ const siddhiVerma = {
 
 A student productivity/study management web app.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi-verma-web&repo=StudySync&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="StudySync pin"/>
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -59,7 +61,9 @@ A student productivity/study management web app.
 
 AI-based project exploring smart automation — a modern, responsive AI-themed landing page with dark/light mode, pricing plans, testimonials, FAQ accordion, and contact form.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi-verma-web&repo=AI-Nexus-Landing-Page&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="AI Nexus pin"/>
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -75,7 +79,9 @@ AI-based project exploring smart automation — a modern, responsive AI-themed l
 
 Real-time password strength validator.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi-verma-web&repo=Password-Strength-Checker&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Password Strength Checker pin"/>
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Password-Strength-Checker?color=7dd3fc&style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -91,7 +97,9 @@ Real-time password strength validator.
 
 A fine Indian dining restaurant website.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi-verma-web&repo=Royal-Tadka-Website&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Royal Tadka pin"/>
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Royal-Tadka-Website?color=7dd3fc&style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -107,7 +115,9 @@ A fine Indian dining restaurant website.
 
 My personal portfolio website.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi-verma-web&repo=Siddhi_Verma_Portfolio&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Portfolio pin"/>
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -123,7 +133,9 @@ My personal portfolio website.
 
 Smart Email Triage Environment using OpenEnv (spam vs important classification).
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddhi-verma-web&repo=smart-email-env&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="smart-email-env pin"/>
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square)
 
 | Layer | Technology |
 |---|---|
@@ -147,6 +159,13 @@ Smart Email Triage Environment using OpenEnv (spam vs important classification).
 
 <div align="center">
 
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=7dd3fc&style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddhi-verma-web)
+![Followers](https://img.shields.io/github/followers/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/github/stars/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Total%20Stars)
+
+<br/><br/>
+
+<!-- If the cards below don't render, it's a temporary outage on the free github-readme-stats.vercel.app demo service (a known, widespread issue) — just refresh after a while. -->
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhi-verma-web&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhi-verma-web&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" alt="Top Languages" width="48%"/>
 
