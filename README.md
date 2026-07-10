@@ -192,9 +192,22 @@ Modern, responsive AI-themed landing page — dark/light mode, pricing plans, te
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=7dd3fc&style=for-the-badge&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddhi-verma-web&labelColor=0a2a3a)
-![Followers](https://img.shields.io/github/followers/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Followers&labelColor=0a2a3a)
-![Stars](https://img.shields.io/github/stars/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Total%20Stars&labelColor=0a2a3a)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSiddhi-verma-web&query=%24.public_repos&label=Public%20Repos&color=7dd3fc&style=for-the-badge&labelColor=0a2a3a&logo=github&logoColor=7dd3fc" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Followers&labelColor=0a2a3a&logo=github&logoColor=7dd3fc" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/Siddhi-verma-web?color=7dd3fc&style=for-the-badge&label=Total%20Stars&labelColor=0a2a3a&logo=github&logoColor=7dd3fc" />
+</td>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=Siddhi-verma-web&label=Profile%20Views&color=0d3347&style=for-the-badge&labelColor=0a2a3a" />
+</td>
+</tr>
+</table>
 
 </div>
 
