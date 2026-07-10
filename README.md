@@ -213,6 +213,33 @@ Modern, responsive AI-themed landing page — dark/light mode, pricing plans, te
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhi-verma-web&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" width="100%" />
+</div>
+
+<sub>⚠️ Agar ye graph load na ho to ye `github-readme-activity-graph.vercel.app` ka temporary outage hai (free public service, kabhi-kabhi down hoti hai) — thodi der baad refresh karna.</sub>
+
+---
+
+## 🐍 Contributions Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-snake.svg" />
+    <img alt="GitHub contribution snake"
+         src="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<sub>⚠️ Ye snake tabhi dikhega jab tumhare `Siddhi-verma-web/Siddhi-verma-web` repo mein neeche di gayi GitHub Action workflow file add ho aur ek baar chal jaaye (setup steps neeche diye hain).</sub>
+
+---
+
 ## 🤝 Connect
 
 <div align="center">
