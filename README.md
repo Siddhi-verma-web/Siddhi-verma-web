@@ -1,7 +1,7 @@
 <img width="100%" src="./banner.svg" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+CSE+Student;Exploring+Computer+Vision+%26+AI;Building+StudySync+%7C+AI+Nexus+%7C+smart-email-env;Open+to+Full-time+%2F+Internship+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=3000&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+CSE+Student;Exploring+Computer+Vision+%26+AI;Building+Saree+Store+%7C+AI+Nexus+%7C+Weather+Dashboard;Open+to+Full-time+%2F+Internship+Roles" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@
 - 💻 Skilled in **HTML, CSS, JavaScript & Python**
 - 🤖 Currently exploring **Computer Vision** with OpenCV
 - 🌱 Growing into full-stack development
-- 🚀 Built 6+ real-world projects — including a student productivity dashboard, an AI-themed landing page, and a smart password strength checker
+- 🚀 Built real-world projects — including an e-commerce store, a redesigned AI product landing page, and a weather dashboard
 - 📫 Open to **Full Stack / Frontend Developer roles**, internships & collaborations
 
 <br clear="right"/>
@@ -46,33 +46,36 @@
 
 ## 🚀 Featured Projects
 
-### 📚 StudySync — *Student Productivity Dashboard*
+### 🥻 Saree Website — *Saree E-Commerce Store*
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/StudySync?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/saree-website?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/saree-website?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/saree-website?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
 
 </div>
 
 | Layer | Technology |
 |---|---|
-| Structure | HTML |
-| Styling | CSS |
-| Interactivity | JavaScript |
+| Frontend | React, TypeScript |
+| Styling | Tailwind CSS |
+| Build Tool | Vite |
+| Backend | Supabase |
 
-🌐 **Live →** [siddhi-verma-web.github.io/StudySync](https://siddhi-verma-web.github.io/StudySync/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/StudySync](https://github.com/Siddhi-verma-web/StudySync)
+A modern, responsive saree e-commerce website featuring a beautiful shopping experience with cart, wishlist, search, and full responsive design.
+
+🌐 **Live →** [saree-website-eight.vercel.app](https://saree-website-eight.vercel.app/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/saree-website](https://github.com/Siddhi-verma-web/saree-website)
 
 ---
 
-### 🤖 AI Nexus — *AI-Themed Landing Page*
+### 🤖 AI Nexus Redesign — *Automate Work. Turn Data Into Next Steps.*
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/AI-Nexus-Landing-Page?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/AI-Nexus-Redesign?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/AI-Nexus-Redesign?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/AI-Nexus-Redesign?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
 
 </div>
 
@@ -82,9 +85,51 @@
 | Styling | CSS |
 | Interactivity | JavaScript |
 
-Modern, responsive AI-themed landing page — dark/light mode, pricing plans, testimonials, FAQ accordion, contact form.
+Redesigned AI-themed product landing page — refreshed UI and structure over the original AI Nexus build.
 
-🌐 **Live →** [siddhi-verma-web.github.io/AI-Nexus-Landing-Page](https://siddhi-verma-web.github.io/AI-Nexus-Landing-Page/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/AI-Nexus-Landing-Page](https://github.com/Siddhi-verma-web/AI-Nexus-Landing-Page)
+🌐 **Live →** [siddhi-verma-web.github.io/AI-Nexus-Redesign](https://siddhi-verma-web.github.io/AI-Nexus-Redesign/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/AI-Nexus-Redesign](https://github.com/Siddhi-verma-web/AI-Nexus-Redesign)
+
+---
+
+### 🌐 Siddhi Portfolio Pro — *Personal Portfolio Website*
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Siddhi-Portfolio-Pro?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Siddhi-Portfolio-Pro?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Siddhi-Portfolio-Pro?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Structure | HTML |
+| Styling | CSS |
+| Interactivity | JavaScript |
+
+Upgraded personal portfolio website showcasing projects, skills, and experience.
+
+🌐 **Live →** [siddhi-verma-web.github.io/Siddhi-Portfolio-Pro](https://siddhi-verma-web.github.io/Siddhi-Portfolio-Pro/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/Siddhi-Portfolio-Pro](https://github.com/Siddhi-verma-web/Siddhi-Portfolio-Pro)
+
+---
+
+### ⛅ Weather Dashboard
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Weather-Dashboard?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Weather-Dashboard?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Weather-Dashboard?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| Structure | HTML |
+| Styling | CSS |
+| Interactivity | JavaScript |
+
+🌐 **Live →** [siddhi-verma-web.github.io/Weather-Dashboard](https://siddhi-verma-web.github.io/Weather-Dashboard/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/Weather-Dashboard](https://github.com/Siddhi-verma-web/Weather-Dashboard)
 
 ---
 
@@ -128,43 +173,24 @@ Modern, responsive AI-themed landing page — dark/light mode, pricing plans, te
 
 ---
 
-### 🌐 Portfolio — *Personal Portfolio Website*
+### 👁️ OpenCV Image Processing
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/Siddhi_Verma_Portfolio?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-
-</div>
-
-| Layer | Technology |
-|---|---|
-| Structure | HTML |
-| Styling | CSS |
-| Interactivity | JavaScript |
-
-🌐 **Live →** [siddhi-verma-web.github.io/Siddhi_Verma_Portfolio](https://siddhi-verma-web.github.io/Siddhi_Verma_Portfolio/) &nbsp; \| &nbsp; 📂 **Code →** [github.com/Siddhi-verma-web/Siddhi_Verma_Portfolio](https://github.com/Siddhi-verma-web/Siddhi_Verma_Portfolio)
-
----
-
-### 📧 smart-email-env — *Smart Email Triage Environment*
-
-<div align="center">
-
-![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
-![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/smart-email-env?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Repo Size](https://img.shields.io/github/repo-size/Siddhi-verma-web/OpenCV-image-processing?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Last Commit](https://img.shields.io/github/last-commit/Siddhi-verma-web/OpenCV-image-processing?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
+![Top Language](https://img.shields.io/github/languages/top/Siddhi-verma-web/OpenCV-image-processing?color=7dd3fc&style=flat-square&labelColor=0a2a3a)
 
 </div>
 
 | Layer | Technology |
 |---|---|
 | Language | Python |
-| Environment | OpenEnv |
-| Task | Spam vs Important Classification |
+| Library | OpenCV |
 
-📂 **Code →** [github.com/Siddhi-verma-web/smart-email-env](https://github.com/Siddhi-verma-web/smart-email-env)
+A collection of OpenCV image processing implementations using Python.
+
+📂 **Code →** [github.com/Siddhi-verma-web/OpenCV-image-processing](https://github.com/Siddhi-verma-web/OpenCV-image-processing)
 
 ---
 
@@ -172,17 +198,17 @@ Modern, responsive AI-themed landing page — dark/light mode, pricing plans, te
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react&theme=dark" />
 </p>
 
 ### Currently Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=opencv,supabase&theme=dark" />
 </p>
 
 ### Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,tailwind&theme=dark" />
 </p>
 
 ---
