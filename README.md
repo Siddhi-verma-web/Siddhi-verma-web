@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Animated Banner ✨ -->
-<img src="./banner.svg?v=1" alt="Siddhi Verma — Web Developer" width="100%"/>
+<img src="./banner(1).svg?v=1" alt="Siddhi Verma — Web Developer" width="100%"/>
 
 </div>
 
