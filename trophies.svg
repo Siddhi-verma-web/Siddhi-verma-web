@@ -7,6 +7,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 @keyframes shine{0%{transform:translateX(-140px) skewX(-18deg)}55%,100%{transform:translateX(190px) skewX(-18deg)}}
 .cell{opacity:0;animation:popIn .5s cubic-bezier(.2,.8,.3,1.3) forwards;transform-box:fill-box;transform-origin:center bottom}
 .shine{animation:shine 3.6s ease-in-out infinite}
+@keyframes barGlow{0%,100%{opacity:.6;filter:brightness(1)}50%{opacity:1;filter:brightness(1.4)}}
+.gbar{transform-box:fill-box;transform-origin:center;animation:barGlow 2.4s ease-in-out infinite}
 ]]></style>
 <linearGradient id="tGold" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fde68a"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient>
 <linearGradient id="tPink" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ff9fc4"/><stop offset="100%" stop-color="#ff7eb6"/></linearGradient>
@@ -18,6 +20,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <clipPath id="cc3"><rect x="476" y="14" width="140" height="192" rx="14"/></clipPath>
 <clipPath id="cc4"><rect x="630" y="14" width="140" height="192" rx="14"/></clipPath>
 <clipPath id="cc5"><rect x="784" y="14" width="140" height="192" rx="14"/></clipPath>
+<filter id="barBlur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
 </defs>
 <rect width="940" height="220" rx="16" fill="#160f26" stroke="#3b2a5c" stroke-width="1.2"/>
 
@@ -31,6 +34,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="84" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#ff7eb6">C</text>
     <text x="84" y="150" text-anchor="middle" font-size="17" font-weight="800" fill="#e6edf3">16</text>
     <text x="84" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">total repos</text>
+    <rect class="gbar" x="52" y="192" width="64" height="5" rx="2.5" fill="#ff7eb6" filter="url(#barBlur)" style="animation-delay:0.0s"/>
+    <rect x="52" y="192" width="64" height="5" rx="2.5" fill="#ff7eb6"/>
     <g clip-path="url(#cc0)"><rect class="shine" y="14" width="70" height="192" fill="url(#shn)"/></g>
   </g>
   <!-- Stars -->
@@ -41,6 +46,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="238" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#fde68a">S</text>
     <text x="238" y="150" text-anchor="middle" font-size="17" font-weight="800" fill="#e6edf3">1</text>
     <text x="238" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">stars earned</text>
+    <rect class="gbar" x="206" y="192" width="64" height="5" rx="2.5" fill="#fde047" filter="url(#barBlur)" style="animation-delay:0.15s"/>
+    <rect x="206" y="192" width="64" height="5" rx="2.5" fill="#fde047"/>
     <g clip-path="url(#cc1)"><rect class="shine" y="14" width="70" height="192" fill="url(#shn)" style="animation-delay:.3s"/></g>
   </g>
   <!-- Followers -->
@@ -51,6 +58,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="392" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#c9a3fc">F</text>
     <text x="392" y="150" text-anchor="middle" font-size="17" font-weight="800" fill="#e6edf3">1</text>
     <text x="392" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">people following</text>
+    <rect class="gbar" x="360" y="192" width="64" height="5" rx="2.5" fill="#c9a3fc" filter="url(#barBlur)" style="animation-delay:0.3s"/>
+    <rect x="360" y="192" width="64" height="5" rx="2.5" fill="#c9a3fc"/>
     <g clip-path="url(#cc2)"><rect class="shine" y="14" width="70" height="192" fill="url(#shn)" style="animation-delay:.6s"/></g>
   </g>
   <!-- Experience -->
@@ -62,6 +71,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="546" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#ff7eb6">E</text>
     <text x="546" y="150" text-anchor="middle" font-size="15" font-weight="800" fill="#e6edf3">Final Yr</text>
     <text x="546" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">CSE student</text>
+    <rect class="gbar" x="514" y="192" width="64" height="5" rx="2.5" fill="#60a5fa" filter="url(#barBlur)" style="animation-delay:0.44999999999999996s"/>
+    <rect x="514" y="192" width="64" height="5" rx="2.5" fill="#60a5fa"/>
     <g clip-path="url(#cc3)"><rect class="shine" y="14" width="70" height="192" fill="url(#shn)" style="animation-delay:.9s"/></g>
   </g>
   <!-- Projects -->
@@ -73,6 +84,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="700" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#fde68a">P</text>
     <text x="700" y="150" text-anchor="middle" font-size="17" font-weight="800" fill="#e6edf3">7+</text>
     <text x="700" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">shipped live</text>
+    <rect class="gbar" x="668" y="192" width="64" height="5" rx="2.5" fill="#ff9fc4" filter="url(#barBlur)" style="animation-delay:0.6s"/>
+    <rect x="668" y="192" width="64" height="5" rx="2.5" fill="#ff9fc4"/>
     <g clip-path="url(#cc4)"><rect class="shine" y="14" width="70" height="192" fill="url(#shn)" style="animation-delay:1.2s"/></g>
   </g>
   <!-- Open to Work -->
@@ -84,6 +97,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <text x="854" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#22a83f">✓</text>
     <text x="854" y="150" text-anchor="middle" font-size="14" font-weight="800" fill="#e6edf3">Open</text>
     <text x="854" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">to work</text>
+    <rect class="gbar" x="822" y="192" width="64" height="5" rx="2.5" fill="#4ade80" filter="url(#barBlur)" style="animation-delay:0.75s"/>
+    <rect x="822" y="192" width="64" height="5" rx="2.5" fill="#4ade80"/>
     <g clip-path="url(#cc5)"><rect class="shine" y="14" width="70" height="192" fill="url(#shn)" style="animation-delay:1.5s"/></g>
   </g>
 </g>
