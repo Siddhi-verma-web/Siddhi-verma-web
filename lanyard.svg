@@ -4,13 +4,15 @@
 <style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 .script{font-family:'Brush Script MT','Segoe Script','Comic Sans MS',cursive;font-style:italic}
-@keyframes settle{0%{transform:rotate(0deg) translateY(-720px)}18%{transform:rotate(0deg) translateY(0)}30%{transform:rotate(13deg)}46%{transform:rotate(-9deg)}62%{transform:rotate(6deg)}78%{transform:rotate(-3.5deg)}92%{transform:rotate(1.5deg)}100%{transform:rotate(0deg)}}
+@keyframes settle{0%{transform:rotate(0deg) translateY(-720px) scale(.9)}18%{transform:rotate(0deg) translateY(0) scale(1.08)}24%{transform:scale(.97)}28%{transform:scale(1.02)}30%{transform:rotate(13deg) scale(1)}46%{transform:rotate(-9deg)}62%{transform:rotate(6deg)}78%{transform:rotate(-3.5deg)}92%{transform:rotate(1.5deg)}100%{transform:rotate(0deg)}}
 @keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
 @keyframes cardWobble{0%,100%{transform:rotate(1.5deg)}50%{transform:rotate(-1.5deg)}}
 @keyframes shine{0%{transform:translateX(-360px) skewX(-18deg)}55%,100%{transform:translateX(440px) skewX(-18deg)}}
 @keyframes twinkle{0%,100%{opacity:0;transform:scale(.4)}50%{opacity:1;transform:scale(1)}}
 @keyframes fadeIn{from{opacity:0}to{opacity:1}}
 @keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@keyframes floaty2{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-14px) rotate(6deg)}}
+.fl2{transform-box:fill-box;transform-origin:center;animation:floaty2 4.4s ease-in-out infinite}
 .settle{transform-origin:230px 6px;animation:settle 3.4s cubic-bezier(.34,1.1,.5,1) forwards}
 .sway{transform-origin:230px 6px;animation:sway 4.2s ease-in-out 3.4s infinite}
 .wob{transform-origin:230px 330px;animation:cardWobble 4.2s ease-in-out 3.4s infinite}
@@ -48,6 +50,34 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g class="tw" style="animation-delay:.3s"><circle cx="60" cy="130" r="1.6" fill="#e879f9"/></g>
 <g class="tw" style="animation-delay:1.2s"><circle cx="400" cy="220" r="2" fill="#ff7eb6"/></g>
 <g class="tw" style="animation-delay:.8s"><circle cx="40" cy="460" r="1.6" fill="#c084fc"/></g>
+<g class="tw" style="animation-delay:1.6s"><circle cx="420" cy="500" r="1.8" fill="#e879f9"/></g>
+<g class="tw" style="animation-delay:2.1s"><circle cx="70" cy="600" r="1.5" fill="#ff7eb6"/></g>
+<g class="tw" style="animation-delay:.5s"><circle cx="380" cy="90" r="1.4" fill="#c084fc"/></g>
+
+<!-- floating hearts -->
+<g class="fl2" style="animation-delay:.4s;transform-box:fill-box;transform-origin:center;animation-name:floaty2h">
+  <path transform="translate(30,220) scale(1.3)" d="M8 14 C-2 6 -2 -4 6 -4 c3 0 5 2 6 4 c1 -2 3 -4 6 -4 c8 0 8 10 -2 18 z" fill="#ff7eb6" opacity="0"><animate attributeName="opacity" values="0;.95;.95;0" keyTimes="0;.1;.9;1" dur="5s" begin="3.6s" repeatCount="indefinite"/></path>
+</g>
+<g class="fl2" style="animation-delay:1.1s">
+  <path transform="translate(430,340) scale(1)" d="M8 14 C-2 6 -2 -4 6 -4 c3 0 5 2 6 4 c1 -2 3 -4 6 -4 c8 0 8 10 -2 18 z" fill="#e879f9" opacity="0"><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.9;1" dur="5.5s" begin="3.9s" repeatCount="indefinite"/></path>
+</g>
+<g class="fl2" style="animation-delay:.7s">
+  <path transform="translate(20,540) scale(.85)" d="M8 14 C-2 6 -2 -4 6 -4 c3 0 5 2 6 4 c1 -2 3 -4 6 -4 c8 0 8 10 -2 18 z" fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.9;1" dur="4.8s" begin="4.2s" repeatCount="indefinite"/></path>
+</g>
+<g class="fl2" style="animation-delay:1.5s">
+  <path transform="translate(440,640) scale(.9)" d="M8 14 C-2 6 -2 -4 6 -4 c3 0 5 2 6 4 c1 -2 3 -4 6 -4 c8 0 8 10 -2 18 z" fill="#ff7eb6" opacity="0"><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.9;1" dur="5.2s" begin="4.5s" repeatCount="indefinite"/></path>
+</g>
+
+<!-- floating sparkles -->
+<g class="fl2" style="animation-delay:.9s">
+  <path transform="translate(45,380) scale(.9)" d="M9 0 L11 7 L18 9 L11 11 L9 18 L7 11 L0 9 L7 7 Z" fill="#e879f9" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="4.5s" begin="3.8s" repeatCount="indefinite"/></path>
+</g>
+<g class="fl2" style="animation-delay:1.3s">
+  <path transform="translate(410,460) scale(.7)" d="M9 0 L11 7 L18 9 L11 11 L9 18 L7 11 L0 9 L7 7 Z" fill="#ff7eb6" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="4s" begin="4.1s" repeatCount="indefinite"/></path>
+</g>
+<g class="fl2" style="animation-delay:.6s">
+  <path transform="translate(400,650) scale(.6)" d="M9 0 L11 7 L18 9 L11 11 L9 18 L7 11 L0 9 L7 7 Z" fill="#c084fc" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="4.3s" begin="4.4s" repeatCount="indefinite"/></path>
+</g>
 
 <g class="settle">
   <!-- clip -->
