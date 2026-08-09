@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner — auto-switches with GitHub theme ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1" />
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1" />
-  <img src="./banner.svg?v=1" alt="Siddhi Verma — Web Developer" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2" />
+  <img src="./banner.svg?v=2" alt="Siddhi Verma — Web Developer" width="100%"/>
 </picture>
 
 </div>
@@ -47,8 +47,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./stats.svg?v=1" alt="GitHub Stats" width="46%"/>
-<img src="./langs.svg?v=1" alt="Top Languages" width="46%"/>
+<img src="./stats.svg?v=2" alt="GitHub Stats" width="46%"/>
+<img src="./langs.svg?v=2" alt="Top Languages" width="46%"/>
 
 <br/><br/>
 
