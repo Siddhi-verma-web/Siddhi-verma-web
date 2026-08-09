@@ -66,8 +66,15 @@
 ### 🐍 Watch the snake eat my contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-snake-pink.svg" />
-  <img src="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-snake-pink.svg" alt="Contribution snake" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Siddhi-verma-web/Siddhi-verma-web/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
 </picture>
 
 <br/><br/>
