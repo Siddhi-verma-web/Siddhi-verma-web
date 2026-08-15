@@ -107,7 +107,7 @@ text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}
   <text x="48" y="404" font-size="17" font-weight="700" fill="#e879f9">💗 About Me</text>
 </g>
 <g font-size="14.5" fill="#3a2560">
-  <g class="popx" style="animation-delay:3.15s"><text x="48" y="432"><tspan fill="#ff7eb6">&gt;_</tspan> Final-year CSE student building real-world web apps.</text></g>
+  <g class="popx" style="animation-delay:3.15s"><text x="48" y="432"><tspan fill="#ff7eb6">&gt;_</tspan>  Pre Final-year CSE student building real-world web apps.</text></g>
   <g class="popx" style="animation-delay:3.3s"><text x="48" y="456"><tspan fill="#c084fc">◆</tspan> Always learning, always building.</text></g>
   <g class="popx" style="animation-delay:3.45s"><text x="48" y="480"><tspan fill="#8b5cf6">✦</tspan> Exploring Computer Vision &amp; AI with OpenCV.</text></g>
   <g class="popx" style="animation-delay:3.6s"><text x="48" y="504"><tspan fill="#e879f9">🚀</tspan> Open to Full Stack / Frontend roles &amp; internships.</text></g>
