@@ -69,7 +69,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <rect x="524" y="72" width="44" height="34" rx="6" fill="url(#tPink)"/>
     <rect x="536" y="64" width="20" height="12" rx="3" fill="url(#tPink)"/>
     <text x="546" y="128" text-anchor="middle" font-size="20" font-weight="800" fill="#ff7eb6">E</text>
-    <text x="546" y="150" text-anchor="middle" font-size="15" font-weight="800" fill="#e6edf3">Final Yr</text>
+    <text x="546" y="150" text-anchor="middle" font-size="15" font-weight="800" fill="#e6edf3"> Pre Final Year</text>
     <text x="546" y="170" text-anchor="middle" font-size="9" fill="#5b4a72">CSE student</text>
     <rect class="gbar" x="514" y="192" width="64" height="5" rx="2.5" fill="#60a5fa" filter="url(#barBlur)" style="animation-delay:0.44999999999999996s"/>
     <rect x="514" y="192" width="64" height="5" rx="2.5" fill="#60a5fa"/>
