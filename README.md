@@ -95,7 +95,7 @@
 <a href="mailto:vbhoomi324@gmail.com"><img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Siddhi-verma-web"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/siddhiverma"><img src="https://img.shields.io/badge/LinkedIn-ff7eb6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://drive.google.com/file/d/1Ivn1zVk9p73AUWaWVn-TogQhtkZYffM4/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2d1b4e?style=for-the-badge&logo=googledrive&logoColor=c084fc" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1owz1Ut0exJ80SKdH85wdZo_1rAW8a4nL/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2d1b4e?style=for-the-badge&logo=googledrive&logoColor=c084fc" alt="Resume"/></a>
 
 <br/><br/>
 
